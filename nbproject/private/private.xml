@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/Downloads/proyecto_textil/src/java/modelo/Usuario.java</file>
+            <file>file:/E:/Downloads/proyecto_textil/web/vista/login.jsp</file>
+            <file>file:/E:/Downloads/proyecto_textil/src/java/controlador/LogoutServlet.java</file>
+            <file>file:/E:/Downloads/proyecto_textil/web/vista/dashboard.jsp</file>
+            <file>file:/E:/Downloads/proyecto_textil/src/java/controlador/SesionFiltro.java</file>
+            <file>file:/E:/Downloads/proyecto_textil/web/index.html</file>
+            <file>file:/E:/Downloads/proyecto_textil/src/java/modelo/ConexionDB.java</file>
+            <file>file:/E:/Downloads/proyecto_textil/src/java/controlador/LoginServlet.java</file>
+            <file>file:/E:/Downloads/proyecto_textil/src/java/modelo/UsuarioDAO.java</file>
+            <file>file:/E:/Downloads/proyecto_textil/src/java/controlador/InventarioServlet.java</file>
+        </group>
+    </open-files>
+</project-private>
